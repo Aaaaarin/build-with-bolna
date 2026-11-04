@@ -1,3 +1,5 @@
+| Field | Details |
+| --- | --- |
 | name | Haalo ai |
 | category | Website |
 | url | https://haalo-ai.vercel.app/ |
